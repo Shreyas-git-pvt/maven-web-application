@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot </name>
-	      <url>http://3.111.168.24:8081/repository/citiback-snapshot/</url>
+	      <url>http://13.233.200.219:8081/repository/citiback-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
