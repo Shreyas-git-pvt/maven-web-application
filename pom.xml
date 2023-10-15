@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Release</name>
-	      <url>http://3.111.168.24:8081/repository/citibank-release/</url>
+	      <url>http://13.233.190.0:8081/repository/nav-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot </name>
-	      <url>http://3.111.168.24:8081/repository/citiback-snapshot/</url>
+	      <name>Snapshot</name>
+	      <url>http://13.233.190.0:8081/repository/mav-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
